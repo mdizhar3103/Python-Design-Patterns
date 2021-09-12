@@ -5,7 +5,9 @@ A design pattern is the model solution to a common design problem. It describes 
 - Electrical and plumbing codes
 - Automobile design
 - Mobile phone design
+
 We need design patterns to ensure that our work is consistent, reliable, and understandable.
+
 **Classification of design patterns**
 - Creational - Object creation
 - Structural - Object relationship
